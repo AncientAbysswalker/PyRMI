@@ -1,4 +1,4 @@
 # PyRMI
 Interfacing Server Analytics to Rainmeter through Python
 
-https://latex.codecogs.com/gif.download?S%20%3D%203%20%5Csum_%7Bk%3D1%7D%5E%7B%5Calpha%7D%20k%20+%205%20%5Csum_%7Bk%3D1%7D%5E%7B%5Cbeta%7D%20k%20-%2015%20%5Csum_%7Bk%3D1%7D%5E%7B%5Cgamma%7D%20k
+<a href="https://www.codecogs.com/eqnedit.php?latex=S&space;=&space;3&space;\sum_{k=1}^{\alpha}&space;k&space;&plus;&space;5&space;\sum_{k=1}^{\beta}&space;k&space;-&space;15&space;\sum_{k=1}^{\gamma}&space;k" target="_blank"><img src="https://latex.codecogs.com/gif.latex?S&space;=&space;3&space;\sum_{k=1}^{\alpha}&space;k&space;&plus;&space;5&space;\sum_{k=1}^{\beta}&space;k&space;-&space;15&space;\sum_{k=1}^{\gamma}&space;k" title="S = 3 \sum_{k=1}^{\alpha} k + 5 \sum_{k=1}^{\beta} k - 15 \sum_{k=1}^{\gamma} k" /></a>
